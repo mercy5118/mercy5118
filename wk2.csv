@@ -1,0 +1,15 @@
+customerId,Age,Income,Student,creditrating,classbuyscomputer
+1,youth,high,no,fair,no
+2,youth,high,no,excellent,no
+3,middleage,high,no,fair,yes
+4,senior,medium,no,fair,yes
+5,senior,low,yes,fair,yes
+6,senior,low,yes,excellent,no
+7,middleage,low,yes,excellent,yes
+8,youth,medium,no,excellent,yes
+9,youth,low,yes,fair,no
+10,senior,medium,yes,fair,yes
+11,youth,medium,yes,excellent,yes
+12,middleage,medium,no,excellent,yes
+13,middleage,high,yes,fair,yes
+14,middleage,medium,no,excellent,no
